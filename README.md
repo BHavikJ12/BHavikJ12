@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BHavikJ12
 - 👀 I’m interested in Robotics
-- 🌱 I’m currently learning ROS, mathematical modelling
-- 💞️ I’m currently working on self balancing bike
+- 🌱 I’m currently learning ROS, mathematical modelling, control systems
+- 💞️ I made a self balancing delivery bike
 - 📫 You can reach me at bhavik.bj.1025@gmail.com
 
 <!---
